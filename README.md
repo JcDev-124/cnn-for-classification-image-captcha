@@ -75,6 +75,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 
 Este projeto é distribuído sob a Licença MIT. Consulte o arquivo `LICENSE` para obter detalhes.
 
----
 
-Este README fornece uma visão geral completa do projeto, como utilizá-lo e as principais informações relacionadas aos resultados e personalização. Sinta-se à vontade para adaptar e expandir este README conforme necessário para o seu projeto.
